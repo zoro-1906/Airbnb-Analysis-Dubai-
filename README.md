@@ -5,6 +5,8 @@ This project features a fully interactive Power BI dashboard analyzing Airbnb li
 ## 🔍 Overview:
 Using a dataset of over 30 columns, this dashboard delivers key insights into Airbnb property performance, pricing, host quality, and availability in Dubai. It was created as part of my business analyst portfolio to demonstrate data storytelling, DAX skills, and visualization techniques.
 
+📸 Snapshots of the Project:
+
 Snapshot of the base dashboard overview:
 
 https://github.com/zoro-1906/Airbnb-Analysis-Dubai-/blob/main/SS1%20(Base%20Dashboard).png
