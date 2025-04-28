@@ -44,3 +44,8 @@ Power BI Desktop
 DAX for custom measures and calculated columns
 
 ArcGIS for geospatial mapping
+
+## Dataset Information
+
+- Source: Kaggle - Airbnb Data: Listings Scraped Global top 10 cities
+
