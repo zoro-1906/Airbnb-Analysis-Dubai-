@@ -7,15 +7,15 @@ Using a dataset of over 30 columns, this dashboard delivers key insights into Ai
 
 ## 📸 Snapshots of the Project:
 
-Snapshot of the base dashboard overview:
+- Snapshot of the base dashboard overview:
 
 https://github.com/zoro-1906/Airbnb-Analysis-Dubai-/blob/main/SS1%20(Base%20Dashboard).png
 
-Snapshot of dashboard filtered to Entire Villa with InstantBook enabled and PetsAllowed:
+- Snapshot of dashboard filtered to Entire Villa with InstantBook enabled and PetsAllowed:
 
 https://github.com/zoro-1906/Airbnb-Analysis-Dubai-/blob/main/SS2%20(Filtered%20to%20Entire%20Villa).png
 
-Snapshot of dashboard filtered to Entire Condo with SuperHost enabled, InstantBook enabled and PetsAllowed:
+- Snapshot of dashboard filtered to Entire Condo with SuperHost enabled, InstantBook enabled and PetsAllowed:
 
 https://github.com/zoro-1906/Airbnb-Analysis-Dubai-/blob/main/SS3%20(Filtered%20to%20Entire%20Condo).png
 
@@ -26,17 +26,17 @@ Slicers: Dropdown filters for Property Type, Listing Type, Bedrooms; Toggle butt
 
 Visuals:
 
-Bar charts for revenue and occupancy comparisons
+- Bar charts for revenue and occupancy comparisons
 
-Line chart showing ADR and occupancy trends
+- Line chart showing ADR and occupancy trends
 
-ArcGIS map of listing locations
+- ArcGIS map of listing locations
 
-Donut chart for Superhost distribution
+- Donut chart for Superhost distribution
 
-Table of top-performing listings
+- Table of top-performing listings
 
-Clear All Filters button for seamless interactivity
+- Clear All Filters button for seamless interactivity
 
 ## 🛠️ Tools Used:
 Power BI Desktop
@@ -48,4 +48,5 @@ ArcGIS for geospatial mapping
 ## Dataset Information
 
 - Source: Kaggle - Airbnb Data: Listings Scraped Global top 10 cities
+- Kaggle-URL-Link - https://www.kaggle.com/datasets/jaeseokanairbtics/airbnb-data-listings-scraped-global-top-10-cities
 
